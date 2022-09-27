@@ -33,11 +33,19 @@
 - Sessions 4 - 12 per fer
 
 ## Com descarregar les respostes?
-1. Descarrega el fitxer comprimit
+
+### 1. Descarrega el fitxer comprimit
+
 ![download_compressed](/images/download_compressed.png)
-2. Extreu el fitxer comprimit
-  Podeu utilitzar eines com `zip folders`, `7zip`, `winrar`, `winzip`... per extreure el fitxer comprimit.
+
+### 2. Extreu el fitxer comprimit
+
+Podeu utilitzar eines com `zip folders`, `7zip`, `winrar`, `winzip`... per extreure el fitxer comprimit.
+
 ![extract_compressed](/images/extract_compressed.png)
-3. Entreu a la carpeta extreta
-  Dintre de la carpeta trobareu les solucions ordenades
+
+### 3. Entreu a la carpeta extreta
+
+Dintre de la carpeta trobareu les solucions ordenades
+
 ![solutions_tree](/images/solutions_tree.png)
