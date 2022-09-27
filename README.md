@@ -1,6 +1,8 @@
 # INFO N10 EPSEVG
 ### Les respostes del teu broker de confiança
 
+![#NoMoreHomework](/images/banner.png)
+
 ## Exercicis solucionats
 - Sessió 1: Instruccions bàsiques i expressions
   - 1 - Suma 3 enters 
