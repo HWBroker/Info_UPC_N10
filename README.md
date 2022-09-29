@@ -31,10 +31,12 @@
   - 3 - Nombre de Dígits
   - 4 - Suma de Dígits
   - 5 - Quadrat Perfecte
-  - 6, 7 i 8 per fer
+  - 6 - Dígits Invertits
+  - 7 - Dígits Iguals
+  - 8 - Parells Petits
 - Sessions 4 - 12 per fer
 
-## Com descarregar les respostes?
+## Com descarrego les respostes?
 
 ### 1. Descarrega el fitxer comprimit
 
