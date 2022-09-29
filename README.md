@@ -53,3 +53,27 @@ Podeu utilitzar eines com `zip folders`, `7zip`, `winrar`, `winzip`... per extre
 Dintre de la carpeta trobareu les solucions ordenades
 
 ![solutions_tree](/images/solutions_tree.png)
+
+## I si només vull un exercici?
+
+### 1. Tria la sessió a la llista de fitxers
+
+![repo](/images/repo.png)
+
+### 2. Tria el exercici
+
+![repofolder](/images/repofolder.png)
+
+### 3. Fes clic sobre main.py
+
+Aquí pots copiar la resposta. Si vols descarregar el fitxer, continua seguint els passos.
+
+![mainpy](/images/mainpy.png)
+
+### 4. Fes clic sobre raw
+
+![raw](/images/raw.png)
+
+### 5. Fes clic dret a la pàgina i selecciona "guardar pàgina com..."
+
+![save](/images/save.png)
