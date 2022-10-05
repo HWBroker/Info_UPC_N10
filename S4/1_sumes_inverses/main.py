@@ -1,3 +1,5 @@
+#NoMoreHomework
+
 def main():
     i = int(input()) + 1
     

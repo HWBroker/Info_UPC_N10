@@ -34,7 +34,14 @@
   - 6 - Dígits Invertits
   - 7 - Dígits Iguals
   - 8 - Parells Petits
-- Sessions 4 - 12 per fer
+- Sessió 4: Iterativa (II)
+  - 1 - Sumes Inverses
+  - 2 - Triangle
+  - 3 - Suma de Múltiples
+  - 4 - Divisors
+  - 5 - Desordre
+  - 6 - Euclides
+- Sessions 5 - 12 per fer
 
 ## Com descarrego les respostes?
 
