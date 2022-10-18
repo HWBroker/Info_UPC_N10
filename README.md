@@ -43,6 +43,15 @@
   - 6 - Euclides
 - Sessions 5 - 12 per fer
 
+## Utils
+Aquesta carpeta conté algunes funcions i petits trucs que et poden ajudar
+ - Parse segur
+   - Llegeix un enter positiu sense tenir por de que el programa doni error.
+
+## Llicència
+Aquest codi està distribuït baix una versió modificada de la llicència BSD de 0 clàusules. 
+Ets lliure d'utilitzar el codi per qualsevol propòsit mentre no inclogis el meu nom. No s'inclou cap tipus de guarantia amb aquest codi.
+
 ## Com descarrego les respostes?
 
 ### 1. Descarrega el fitxer comprimit
