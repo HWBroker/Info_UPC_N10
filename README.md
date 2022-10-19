@@ -41,7 +41,16 @@
   - 4 - Divisors
   - 5 - Desordre
   - 6 - Euclides
-- Sessions 5 - 12 per fer
+- Sessió 5: Iterativa (III) 
+  - 1 - Suma d'una Sèrie
+  - 2 - Successió
+  - 3 a 8 per fer
+- Sessió 6: Seqüències (I)
+  - 1 a 8 per fer
+  - 9 - Tots Iguals
+  - 10 - Seqüència Creixent o Decreixent
+  - 11 a 14 per fer
+- Sessions 7 a 12 per fer
 
 ## Utils
 Aquesta carpeta conté algunes funcions i petits trucs que et poden ajudar
