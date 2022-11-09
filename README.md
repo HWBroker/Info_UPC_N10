@@ -44,7 +44,12 @@
 - Sessió 5: Iterativa (III) 
   - 1 - Suma d'una Sèrie
   - 2 - Successió
-  - 3 a 8 per fer
+  - 3 - Successió de Fibonacci
+  - 4 - Suma de Nombres de Fibonacci
+  - 5 - Nombres Triangulars
+  - 6 - Primers
+  - 7 - Càlcul del Cosinus
+  - 8 - Càlcul del Sinus
 - Sessió 6: Seqüències (I)
   - 1 a 8 per fer
   - 9 - Tots Iguals
