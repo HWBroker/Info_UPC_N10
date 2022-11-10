@@ -51,10 +51,20 @@
   - 7 - Càlcul del Cosinus
   - 8 - Càlcul del Sinus
 - Sessió 6: Seqüències (I)
-  - 1 a 8 per fer
+  - 1 - Vegades Repetit
+  - 2 - Parell en Seqüència
+  - 3 - Primer Negatiu
+  - 4 - Mitjana d'una Seqüència
+  - 5 - Seqüència d'Entrada
+  - 6 - Zeros i Uns
+  - 7 - O Parells o Senars
+  - 8 - Positius vs Negatius
   - 9 - Tots Iguals
   - 10 - Seqüència Creixent o Decreixent
-  - 11 a 14 per fer
+  - 11 - Posicions del Negatius
+  - 12 - Nombre de Parells d'una Seqüència
+  - 13 - Valors en un Interval
+  - 14 - Màxim i Mínim d'una Seqüència
 - Sessions 7 a 12 per fer
 
 ## Utils
