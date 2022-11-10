@@ -2,15 +2,14 @@
 
 def main():
     i = int(input())
-    j = 0
-    if i != 0:
-        j = int(input())
+    j = int(input())
+    k = int(input())
     f = True
 
-    while (i != 0) and (j != 0):
-        if i != j:
+    while k != 0:
+        if not (k >= i and k <= j):
             f = False
-        i = int(input())
+        k = int(input())
 
     print(f)
 
