@@ -65,7 +65,13 @@
   - 12 - Nombre de Parells d'una Seqüència
   - 13 - Valors en un Interval
   - 14 - Màxim i Mínim d'una Seqüència
-- Sessions 7 a 12 per fer
+- Sessió 7: Seqüències (II) 
+  - 1 - Pics
+  - 2 - Creixent-Decreixent
+  - 3 - Compressió
+  - 4 - Notes Poderades
+  - 5 - Temperatures
+- Sessions 8 a 15 per fer
 
 ## Utils
 Aquesta carpeta conté algunes funcions i petits trucs que et poden ajudar
