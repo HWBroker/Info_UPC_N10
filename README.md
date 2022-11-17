@@ -71,7 +71,12 @@
   - 3 - Compressió
   - 4 - Notes Poderades
   - 5 - Temperatures
-- Sessions 8 a 15 per fer
+- Sessió 8: Seqüències (III)
+  - 1 - Seqüència Fibonacci
+  - 2 - Seqüència Paritària
+  - 3 - Seqüència Bicreixent (NO ES POSSIBLE!)
+  - 4 - Parells o Senars
+- Sessions 9 a 15 per fer
 
 ## Utils
 Aquesta carpeta conté algunes funcions i petits trucs que et poden ajudar
