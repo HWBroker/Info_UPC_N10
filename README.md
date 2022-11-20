@@ -84,7 +84,13 @@
   - 5 - Dos parells en un vector
   - 6 - Elements iguals en vectors
   - 7 - Posicions parelles
-- Sessions 10 a 15 per fer
+- Sessió 10: Vectors (II)
+  - 1 - Intersecció de vectors
+  - 2 - Vector capgirat
+  - 3 - Palíndrom
+  - 4 - Unió de Vectors
+  - 5 - Eliminar repeticions
+- Sessions 11 a 15 per fer
 
 ## Utils
 Aquesta carpeta conté algunes funcions i petits trucs que et poden ajudar
