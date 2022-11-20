@@ -76,7 +76,15 @@
   - 2 - Seqüència Paritària
   - 3 - Seqüència Bicreixent (NO ES POSSIBLE!)
   - 4 - Parells o Senars
-- Sessions 9 a 15 per fer
+- Sessió 9: Vectors (I)
+  - 1 - Màxim d'un vector
+  - 2 - Suma de vectors (I)
+  - 3 - Càlculs en vectors
+  - 4 - Divisors en un vector
+  - 5 - Dos parells en un vector
+  - 6 - Elements iguals en vectors
+  - 7 - Posicions parelles
+- Sessions 10 a 15 per fer
 
 ## Utils
 Aquesta carpeta conté algunes funcions i petits trucs que et poden ajudar
