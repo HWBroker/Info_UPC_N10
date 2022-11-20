@@ -90,7 +90,13 @@
   - 3 - Palíndrom
   - 4 - Unió de Vectors
   - 5 - Eliminar repeticions
-- Sessions 11 a 15 per fer
+- Sessió 11: Vectors (III)
+  - 1 - Pes màxim
+  - 2 - Distància Euclidiana
+  - 3 - Entropia (NO ES POSSIBLE!)
+  - 4 - Vectors intercalables (NO ES POSSIBLE!)
+  - 5 i 6 per fer
+- Sessions 12 a 15 per fer
 
 ## Utils
 Aquesta carpeta conté algunes funcions i petits trucs que et poden ajudar
