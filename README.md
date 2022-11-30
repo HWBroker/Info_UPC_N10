@@ -96,6 +96,17 @@
   - 3 - Entropia (NO ES POSSIBLE!)
   - 4 - Vectors intercalables (NO ES POSSIBLE!)
   - 5 i 6 per fer
+- Sessió 14: Matrius (I)
+  - 1 - Crea la matriu identitat
+  - 2 - És la matriu identitat?
+  - 3 - Multiple de 5
+  - 4 - Matriu simètrica
+  - 5 - Suma diagonal
+  - 6 - Element en una matriu
+  - 7 - Suma de dues matrius
+  - 8 - Matrius iguals
+  - 9 - Suma de les files d'una matriu
+  - 10 - Màxim de les suma de les columnes d'una matriu
 - Sessions 12 a 15 per fer
 
 ## Utils
