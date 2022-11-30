@@ -95,7 +95,8 @@
   - 2 - Distància Euclidiana
   - 3 - Entropia (NO ES POSSIBLE!)
   - 4 - Vectors intercalables (NO ES POSSIBLE!)
-  - 5 i 6 per fer
+  - 5 - Semiordenat (NOMÉS GROC)
+  - 6 - Segona moda (NO SOLUCIONAT)
 - Sessió 14: Matrius (I)
   - 1 - Crea la matriu identitat
   - 2 - És la matriu identitat?
